@@ -4,10 +4,10 @@ This project implements a neural network to recognize handwritten digits from th
 
 # How to use 
 - Train model using scrit.py
-- ```bash
+  ```bash
   python script.py
 - Run the Program using gui.py
-- ```bash
+  ```bash
   python python gui.py
 
 ## Features
