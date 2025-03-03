@@ -2,6 +2,14 @@
 
 This project implements a neural network to recognize handwritten digits from the MNIST dataset. It includes a Python script for training the network and a graphical user interface (GUI) for interactive digit recognition.
 
+# How to use 
+- Train model using scrit.py
+- ```bash
+  python script.py
+- Run the Program using gui.py
+- ```bash
+  python python gui.py
+
 ## Features
 
 - **Neural Network Training**: Train a neural network on the MNIST dataset with customizable parameters.
